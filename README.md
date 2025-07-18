@@ -1,7 +1,2 @@
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+https://helva.gitbook.io/helva
+https://helva-agent.github.io/
